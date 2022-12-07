@@ -1,6 +1,6 @@
 <div>
   <h1>Hi 👋, I'm Luis Enrique</h1> 
-  <h5>Desarrollador Frontend, soy un joven apasionado con la programación y en busca de nuevas oportunidades, actualmente estoy implementando                                 herramientas para el desarrollo de Backend   
+  <h5>Desarrollador Frontend, soy un joven apasionado por la programación y en busca de nuevas oportunidades, actualmente estoy implementando                                 herramientas para el desarrollo de Backend   
   </h5>
 </div>
 
